@@ -2,3 +2,9 @@
 *.un~
 *.bar
 *.pyc
+assets/.assets.index
+signing/bbpass
+signing/*.csk
+signing/*.bar
+signing/*.p12
+signing/ssh-key*
