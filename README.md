@@ -6,7 +6,7 @@ This repository allows you to quickly bootstrap a [Blackberry-Py](http://blackbe
 
 1. Clone this repository with the submodule(s)
   ```
-  git clone --recurse-submodules https://github.com/BerryFarm/blackberry-py-bootstrap
+  git clone --recurse-submodules https://github.com/BerryTrucks/blackberry-py-bootstrap
   ```
 2. Install Python 3.2.2. The easiest way is through [pyenv](https://realpython.com/intro-to-pyenv/#installing-pyenv)
 3. Generate a debug token (see how below)
