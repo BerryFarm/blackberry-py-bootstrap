@@ -31,6 +31,7 @@ Important: any symbols need to be escaped according to bash / Makefile rules e.g
 
 ## See also
 
+* https://github.com/krruzic/Reader-YC - full HackerNews reader app built with Blackberry Py
 * The official Blackberry-Py repo with code samples - https://bitbucket.org/microcode/blackberry-py/src/default/
 
 ## Thanks
